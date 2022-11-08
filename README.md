@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bart van Dongen 
-- 👀 I’m interested in IT security and software development 
-- 🌱 I’m currently learning more about network engineering 
-- 👨‍🎓 I'm currently studying Security and Network engineering 
+- 👀 I’m interested in IT security, software development and infrastructure.
+- 🌱 I’m currently working at Sue.
+- 👨‍🎓 I finished the master Security and Network engineering.
 
 <!---
 - 📫 How to reach me ...
